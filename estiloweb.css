@@ -1,0 +1,151 @@
+body{margin: 0px;}
+html{ scroll-behavior: smooth;}
+
+#seccion01{width: 100%;
+    height: 700px;
+    background-image:url(img/papel_al_corte.jpg);
+    z-index: 0;
+    background-size: 100% 750px;
+    background-repeat: no-repeat;
+    color: white;}
+
+    header{ width: 100%;
+        height: 125px;
+        background-color: rgba(209, 215, 220, 0.432);
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;}
+
+        header nav {float: left;
+            padding-top: 35px;}
+        
+        header nav a{color: rgb(0, 0, 0);
+            padding: 10px 10px 10px 10px;
+            text-transform: uppercase;
+            text-decoration: none;
+            font-family: retrokia caps;
+            font-size: 25px;}
+        
+        header nav a:hover {color: #d22222; 
+            background-color: white;
+            border-radius: 35px;}
+
+        header img {float: left;
+                margin-left: 80px;
+                margin-right: 390px;
+                margin-top: 15px;}
+            
+ #titulo{ font-family: bahnschrift;
+    color: black; 
+    width: 600px;
+    margin-left: 80px;
+    margin-top: 150px; font-size: 65px;
+    text-decoration: underline;}
+    
+ #bajada1{font-family: 'Franklin Gothic Medium';
+     color: black;
+     font-size: 30px;
+     width: 70%;
+     margin-left: 80px;
+     margin-top: 0px;
+     text-align: center;}
+
+#seccion02{width: 100%;
+        height: 700px;
+        background-image: url(img/punta_de_corte.jpg);
+        background-size:100% 700px;
+        background-repeat: no-repeat;}
+    
+    #nos{color:white;
+        font-family: bahnschrift; 
+        float: right;
+        text-align: right; 
+        margin-left: 950px;
+        margin-top: 190px;font-size: 60px;
+        margin-right: 82px;}
+    
+    #parrafo1{color: white;
+        float: right;
+        margin-top: 40px;
+        margin-right: 82px ;
+        height: 70px;
+        width:450px;
+        text-align: right;
+        font-family: helvetica;}
+
+        #parrafito1{color: white;
+            float: right;
+            margin-top: 45px;
+            margin-right: 82px ;
+            height: 70px;
+            width:450px;
+            text-align: right;
+            font-family: helvetica;}
+
+  #Sale{color: black;
+                font-family: bahnschrift; 
+                text-align: center;
+                margin-top: 70px;
+                font-size: 60px;}
+
+#seccion03{width: 100%;
+    height: 2810px;
+    background-color: rgb(255, 255, 255);
+    background-image: url(img/ofertas.png);
+    background-position: center 50%;
+    background-repeat: no-repeat;
+    color: white;}
+
+    #Cont{color: black;
+        font-family: bahnschrift; 
+        text-align: left;
+        margin-top: 70px;
+        font-size: 60px;
+        margin-left: 80px;}
+
+#seccion04{width: 100%;
+        height: 700px;
+        z-index: 0;
+        background-size: 100% 750px;
+        background-repeat: no-repeat;
+        color: white;;}
+
+        #caja1{width: 375px;
+               height: 313px;
+               margin-left: 115px;
+               margin-top: 50px;
+               background-color: #d2222252;
+               border: 1px solid #d22222;}
+               #num1{color: black; font-family: bahnschrift; font-size: 35px; text-align: center; margin-top: 5px;}
+               #num2{color: black; font-family: bahnschrift; font-size: 35px; text-align: center; margin-top: 1px;}      
+        #wsp{width: 80px; margin-left: 80px; margin-top: 20px;}
+        #tel{width: 70px; margin-left: 70px; margin-top: 5px;}       
+               
+        #caja2{ width: 375px;
+               height: 313px;
+               background-color: #d2222252;
+               border: 1px solid #d22222;
+               margin-left: 544px;
+               margin-top: -315px;}     
+               #correo{color: black; font-family: bahnschrift; font-size: 25px; text-align: center; margin-top: 20px;}
+               #direc{color: black; font-family: bahnschrift; font-size: 25px; text-align: center; margin-top: 30px;}
+        #mail{width: 80px; margin-left: 80px; margin-top: 20px;}
+        #ubi{width: 70px; margin-left: 70px; margin-top: 5px;}       
+        
+    #mapa{width: 375px; height: 320px; float: right; margin-right:110px; margin-top: -314px;}
+
+    #footer nav{float: center;
+        padding-top: 50px;}
+    
+    footer nav a{color: rgb(0, 0, 0);
+        padding: 10px 10px 10px 10px;
+        text-transform: uppercase;
+        text-decoration: none;
+        font-family: bahnschrift;
+        font-size: 50px;
+        margin-left: 550px;}
+    
+    footer nav a:hover {color: #d22222; 
+        background-color: white;
+        border-radius: 35px;}
+       
